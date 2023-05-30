@@ -2,12 +2,9 @@ import streamlit
 
 streamlit.title('My Parents New Healthy Diner')
 
-streamlit.header('Breakfast Menu')
-streamlit.text('Spinach sandwich')
-streamlit.text('Hard-Boiled Free-Range egg')
+streamlit.header('Breakfast Favourites')
+streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔 Hard-Boiled Free-Range egg')
+streamlit.text('🥑🍞 Avocado Toast')
 
-streamlit.header('Lunch Menu')
-streamlit.text('Mexican meal bowl')
-streamlit.text('Chicken Biryani')
-streamlit.text('Veg Biryani')
-streamlit.text('Goat Biryani')
